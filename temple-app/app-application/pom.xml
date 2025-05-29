@@ -14,7 +14,6 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-boot.run.jvmArguments>-Duser.timezone=UTC</spring-boot.run.jvmArguments>
 	</properties>
-	<dependencyManagement>
 		<dependencies>
 			<dependency>
 				<groupId>com.dgsvtml</groupId>
@@ -25,7 +24,19 @@
 				<groupId>com.dgsvtml</groupId>
 				<artifactId>app-common</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
+				<scope>compile</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.projectlombok</groupId>
+				<artifactId>lombok</artifactId>
+				<version>1.18.32</version>
+				<scope>provided</scope>
+			</dependency>
+
+			<dependency>
+				<groupId>org.modelmapper</groupId>
+				<artifactId>modelmapper</artifactId>
+				<version>3.2.0</version>
 			</dependency>
 		</dependencies>
-	</dependencyManagement>
 </project>
