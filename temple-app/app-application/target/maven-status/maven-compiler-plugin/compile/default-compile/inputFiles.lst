@@ -1,3 +1,5 @@
-D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\app\application\dto\UserRegistrationDto.java
-D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\app\application\service\impl\UserRegistrationServiceImpl.java
-D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\app\application\service\UserRegistrationService.java
+D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\com\dgsvtml\dto\UserRegistrationDto.java
+D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\com\dgsvtml\service\impl\UserRegistrationServiceImpl.java
+D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\com\dgsvtml\service\UserRegistrationService.java
+D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\com\dgsvtml\utility\Response.java
+D:\TempleApplicationBackend\TempleApplication\temple-app\app-application\src\main\java\com\dgsvtml\utility\ResponseUtility.java
