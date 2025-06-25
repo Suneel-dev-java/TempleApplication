@@ -16,6 +16,7 @@
 		<module>app-avro-schema</module>
 		<module>app-consumer</module>
 		<module>app-notification</module>
+		<module>app-bo-api</module>
 	</modules>
 	<properties>
 		<java.version>21</java.version>

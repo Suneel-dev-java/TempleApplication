@@ -18,7 +18,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
 @RestController
-@RequestMapping("api/user")
+@RequestMapping("fo/api/user")
 @RequiredArgsConstructor
 @Slf4j
 @Tag(name = "User Registration")

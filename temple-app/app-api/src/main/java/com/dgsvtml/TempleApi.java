@@ -9,7 +9,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 @SpringBootApplication
 @OpenAPIDefinition(info = @Info(title = "Temple Application",
 version = "v1.0.0", 
-description = "This endpoint manages the all temple application inforamtion"))
+description = "This endpoints manages the all temple front office application inforamtion"))
 public class TempleApi {
 
 	public static void main(String[] args) {
